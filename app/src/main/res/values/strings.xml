@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversion App</string>
+    <string name="enter_the_number">Enter the number</string>
+    <string name="convert">Convert</string>
+    <string name="feet_to_inches">feet to inches</string>
+    <string name="centimeters_to_inches">Centimeters to inches</string>
+    <string name="inches_to_centimeters">Inches to centimeters</string>
+    <string name="number_converter">Number Converter</string>
+</resources>
